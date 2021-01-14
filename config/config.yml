@@ -14,14 +14,14 @@ header:
   logoLink: "/"
   helpUrl: ""
   links:
-    - text: BooGi
-      link: https://github.com/filipowm/boogi
+    - text: 
+      link: 
       external: true
-    - text: Gatsby
-      link: https://www.gatsbyjs.org
+    - text: 
+      link: 
       external: true
-    - text: Docs
-      link: "/"
+    - text: 
+      link: 
       external: false
 sidebar:
   enabled: true
@@ -97,11 +97,11 @@ features:
   propagateNetlifyEnv: true
   rss:
     enabled: true
-    title: BooGi Docs
+    title: gregRoss.dev Docs
     showIcon: false
-    copyright: "2020, Mateusz Filipowicz"
-    webMaster: "Mateusz Filipowicz"
-    managingEditor: "Mateusz Filipowicz"
+    copyright: "2021, Greg Ross"
+    webMaster: "Greg Ross"
+    managingEditor: "Greg Ross"
     categories:
       - Docs as Code
       - GatsbyJS
