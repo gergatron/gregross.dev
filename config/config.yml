@@ -1,8 +1,8 @@
 ---
 metadata:
-  name: BooGi
-  short_name: BooGi
-  description: BooGi - awesome GitBook-like documentation generator using Gatsby
+  name: gregRoss.dev
+  short_name: gregRoss.dev
+  description: gregRoss.dev - Dev CV 
   language: en
   pathPrefix: "/"
   siteImage:
@@ -47,10 +47,10 @@ sidebar:
       path: "/developing"
       title: ":computer: Developing"
   links:
-    - text: BooGi
-      link: https://github.com/filipowm/boogi
-    - text: React
-      link: https://reactjs.org
+    - text: 
+      link: 
+    - text: 
+      link: 
   ignoreIndex: false
   poweredBy:
     trademark: "/assets/gatsby.png"
@@ -64,8 +64,8 @@ pwa:
     icon: "/assets/favicon.png"
 
 social:
-  github: https://github.com/filipowm/boogi
-  linkedin: https://www.linkedin.com/in/mateusz-filipowicz-437b4768/
+  github: https://github.com/gregRossDev/gregross.dev
+  linkedin: linkedin url
   twitter: twitter url
 
 features:
@@ -73,7 +73,7 @@ features:
     enabled: true  
     default: false
   editOnRepo:
-    location: https://github.com/filipowm/boogi 
+    location: https://github.com/gregRossDev/gregross.dev 
     type: github
     editable: true
   mermaid:
