@@ -14,14 +14,14 @@ header:
   logoLink: "/"
   helpUrl: ""
   links:
-    - text: 
-      link: 
+    - text: a
+      link: gregRoss.dev
       external: true
-    - text: 
-      link: 
+    - text: b
+      link: gregRoss.dev
       external: true
-    - text: 
-      link: 
+    - text: c
+      link: gregRoss.dev
       external: false
 sidebar:
   enabled: true
@@ -47,10 +47,10 @@ sidebar:
       path: "/developing"
       title: ":computer: Developing"
   links:
-    - text: 
-      link: 
-    - text: 
-      link: 
+    - text: a
+      link: gregRoss.dev
+    - text: b
+      link: gregRoss.dev
   ignoreIndex: false
   poweredBy:
     trademark: "/assets/gatsby.png"
