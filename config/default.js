@@ -1,8 +1,8 @@
 module.exports = {
   metadata: {
-    name: 'BooGi',
-    short_name: 'BooGi',
-    description: '',
+    name: 'gregRoss.dev',
+    short_name: 'gregRoss.dev',
+    description: 'Professional Dev CV',
     language: 'en',
     url: 'http://localhost',
     pathPrefix: '/',
@@ -55,7 +55,7 @@ module.exports = {
   features: {
     editOnRepo: {
       editable: true,
-      location: 'https://github.com/filipowm/boogi',
+      location: 'https://github.com/gregRossDev/gregross.dev',
       type: 'github',
     },
     search: {
