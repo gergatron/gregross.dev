@@ -49,13 +49,11 @@ https://giphy.com/gifs/howtogiphygifs-how-to-XatG8bioEwwVO
 
 **Usage:**
 
-```
-https://instagram.com/p/B60jPE6J8U-
-```
+
 
 **Result:**
 
-https://instagram.com/p/B60jPE6J8U-
+
 
 ### Lichess
 
