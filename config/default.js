@@ -12,7 +12,7 @@ module.exports = {
     themeColor: '#',
   },
   header: {
-    logo: '',
+    logo: '/assets/code.svg',
     logoLink: '/',
     helpUrl: '',
     links: [],

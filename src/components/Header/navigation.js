@@ -6,7 +6,7 @@ const Navigation = styled(({ className, links }) => {
   return (
     <nav css={{display: 'flex'}}>
       <ul className={className}>
-        {links
+        {/* {links
           ? links.map((link, key) => {
               const openRule = link.external ? '_blank' : '_self';
               if (link.link !== '' && link.text !== '') {
@@ -22,7 +22,7 @@ const Navigation = styled(({ className, links }) => {
                 );
               }
             })
-          : null}
+          : null} */}
       </ul>
     </nav>
   );

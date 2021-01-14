@@ -4,35 +4,26 @@ order: 1
 tocDepth: 1
 ---
 
-Primary configuration is set in `config.yml` within `config` directory
-in you main project directory. Configuration details are described
-in subsequent articles.
+Primary configuration `config.yml` within `config` directory
 
 ## Adding images
 
 <Warning>
-
 For adding images (or any other assets) to content, please follow [this](/editing/images) guide instead.
 Using assets does not bring performance optimization 
 </Warning>
 
-You can use your own logo, favicon, page icons (used by _PWA_). Add images
-to `static/assets` directory. Any assets (like images) can be then accessed
-under `/assets/<name_of_file>` path. 
-
-Let's assume you add `mylogo.png` image to `static/assets`. Then you can
-set a path in `config.yml` logo configuration as 
+Add images to `static/assets` directory. 
+- set a path in `config.yml`  
 
 ```yaml
 header:
-  logo: /assets/mylogo.png
+  logo: /assets/logo.png
 ```
 
 ## Using environment variables 
 
-Some configuration may be either sensitive (like Algolia API keys) or is per-environment.
-To set such properties, you can make use of environment variables
-to pass configuration to BooGi / Gatsby while building your project.
+Make use of environment variables (like Algolia API keys) to pass configuration to BooGi / Gatsby while building your project.
 
 Each and every configuration property in `config.yml` can also be
 passed in environment variable.
