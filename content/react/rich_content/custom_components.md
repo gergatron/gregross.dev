@@ -3,9 +3,6 @@ title: ":package: Custom Components"
 order: 1
 ---
 
-Custom components are extensions to Markdown. To use them, use proper
-HTML tag with configuration (if applicable).
-
 ## Layout
 
 Layout can be used to implement multi-column layout. Columns always equally
@@ -300,27 +297,3 @@ or PascalCase (UpperCamelCase) <Icon name="PhoneCall" color="#34e187"/> for icon
 If can use kebab case <Icon name="phone-call" color="#3487e1"/> 
 or camel case <Icon name="PhoneCall" color="#34e187"/>syntax.
 
-## Abbreviations
-
-Follow [this guide](/editing/rich_content/abbreviations) to learn about 
-abbreviations (jargon).
-
-## Emoticons
-
-Follow [this guide](/editing/rich_content/emojis) to learn about 
-emojis (emoticons).
-
-## Diagrams
-
-Follow [this guide](/editing/rich_content/graphs) to learn about 
-diagrams and graphs.
-
-## Code snippets
-
-Follow [this guide](/editing/rich_content/snippets) to learn about 
-code highlighting and code snippets.
-
-## Embeds
-
-Follow [this guide](/editing/rich_content/embed) to learn about 
-embedding external services into your page (like Youtube, Twitter, Instagram, Codepen etc..).

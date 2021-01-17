@@ -6,23 +6,13 @@ metadata:
   language: en
   pathPrefix: "/"
   siteImage:
-  favicon: "/assets/favicon.png"
+  favicon: "/assets/code.svg"
   themeColor: "#ff0000"
 header:
   enabled: true
   logo: "/assets/code.svg"
   logoLink: "/"
   helpUrl: ""
-  links:
-    - text: a
-      link: gregRoss.dev
-      external: true
-    - text: b
-      link: gregRoss.dev
-      external: true
-    - text: c
-      link: gregRoss.dev
-      external: false
 sidebar:
   enabled: true
   # forcedNavOrder:
@@ -32,25 +22,20 @@ sidebar:
   # expanded:
   groups:
     - order: 1
-      path: "/gettingstarted"
-      title: ":rocket: Getting Started"
+      path: "/css"
+      title: ":rocket: CSS"
     - order: 2
-      path: "/configuration"
-      title: ":wrench: Configuration"
+      path: "/js"
+      title: ":wrench: JS"
     - order: 3
-      path: "/editing"
-      title: ":writing_hand: Editing Content"
+      path: "/react"
+      title: ":writing_hand: React"
     - order: 4
-      path: "/deployment"
-      title: ":rocket: Deployment"
+      path: "/rust"
+      title: ":rocket: Rust"
     - order: 5
-      path: "/developing"
-      title: ":computer: Developing"
-  links:
-    - text: a
-      link: gregRoss.dev
-    - text: b
-      link: gregRoss.dev
+      path: "/python"
+      title: ":computer: Python"
   ignoreIndex: false
   poweredBy:
     trademark: "/assets/gatsby.png"
@@ -61,7 +46,7 @@ pwa:
   manifest:
     display: standalone
     crossOrigin: anonymous
-    icon: "/assets/favicon.png"
+    icon: "/assets/code.svg"
 
 social:
   github: https://github.com/gregRossDev/gregross.dev
@@ -111,7 +96,7 @@ features:
     generator: "boogi"
   scrollTop: true
   search:
-    enabled: true
+    enabled: false
     engine: 'algolia'
     placeholder: 'Search'
     startComponent: 'input' # icon

@@ -14,15 +14,11 @@ const logoStyle = (theme) => css`
     min-height: 40px;
   }
   img {
-    width: 55px;
+    width: 30px;
     margin-right: 16px;
     display: inline-block;
-    ${onTablet} {
-      width: 50px;
-    }
     ${onMobile} {
       margin-right: 8px;
-      width: 45px;
     }
   }
 
