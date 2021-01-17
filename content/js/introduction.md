@@ -5,7 +5,7 @@ order: 0
 
 :notes:
 
-![lotus flower](../images/lotus.png) 
+![second image](../images/lotus.png)
 
 
 https://soundcloud.com/clemenswenners/africa
