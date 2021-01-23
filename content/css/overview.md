@@ -3,4 +3,16 @@ title: 'Overview'
 order: 1
 ---
 
-### Write quick overview 
+## How I structure my css when writing
+
+```scss
+ .example {
+   {display}
+   {positioning}
+   {box-model except the content} 
+   {CONTENT}
+    {text}
+    {img}
+ }
+```
+
